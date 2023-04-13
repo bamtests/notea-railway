@@ -23,7 +23,7 @@ This template has pre-configured variables to use [storj.io](https://storj.io) a
 
 **Click below to deploy!**
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/RRpERQ?referralCode=_Fx4yk)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/ZuAFYK?referralCode=_Fx4yk)
 
 *_Note: I am not the creator of Notea, just making it easy to deploy on railway.app._
 
